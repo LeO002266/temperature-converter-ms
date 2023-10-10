@@ -1,2 +1,2 @@
-# tempreture-converter-ms
-tempreture converter using html and css
+# temperature-converter-ms
+temperature converter using html and css
